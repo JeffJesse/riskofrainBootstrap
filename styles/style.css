@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap');
+*{
+    font-family: "Nova Square", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.nuevoContenido {
+    background-image: url(https://www.riskofrain.com/wp-content/uploads/2023/10/sots-bg.jpg?id=451) !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+
+.seccionAcerca{
+    background-image: url(/resources/voidfondo.jpeg) !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    color: white;
+}
+
+.seccionCaracteris{
+    background-image: url(/resources/fondoii.jpg) !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    color: white;
+}
+
+.carrusel{
+    background-image: url(/resources/fondofinal.webp) !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    color: white;
+}
